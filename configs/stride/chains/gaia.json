@@ -3,7 +3,7 @@
   "value": {
     "key": "GAIA_REL_WALLET",
     "chain-id": "GAIA",
-    "rpc-addr": "http://5.9.147.22:26257",
+    "rpc-addr": "http://127.0.0.1:26257",
     "account-prefix": "cosmos",
     "keyring-backend": "test",
     "gas-adjustment": 1.3,
