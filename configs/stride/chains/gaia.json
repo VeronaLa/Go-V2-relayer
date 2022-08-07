@@ -1,0 +1,17 @@
+{
+  "type": "cosmos",
+  "value": {
+    "key": "GAIA_REL_WALLET",
+    "chain-id": "GAIA",
+    "rpc-addr": "http://5.9.147.22:26257",
+    "account-prefix": "cosmos",
+    "keyring-backend": "test",
+    "gas-adjustment": 1.3,
+    "gas-prices": "0.01uatom",
+    "gas": 200000,
+    "timeout": "10s",
+    "trusting-period": "8h",
+    "output-format": "json",
+    "sign-mode": "direct"
+  }
+}
